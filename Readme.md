@@ -181,5 +181,5 @@ Matches the notebook's dark-premium visual identity throughout the app and all m
 
 ---
 
-**Built for:** Future Interns Week 2 — Employee Attrition Prediction
+**Built for:** Employee Attrition Prediction
 **Tech stack:** Streamlit · pandas · NumPy · scikit-learn · Matplotlib · Seaborn
